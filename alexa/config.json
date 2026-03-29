@@ -1,0 +1,9 @@
+{
+  "microphone_device_index": null,
+  "voice_rate": 150,
+  "voice_index": 1,
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "enable_weather": false,
+  "weather_api_key": "",
+  "gui_autostart_listening": false
+}
